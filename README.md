@@ -3,6 +3,13 @@
 
 豆瓣反爬太严了，遂改成用qwen2.5VL来识别封面图
 
+## TODO
+
+
+
+- [ ] 正确签到图片缓存
+- [ ] 更多的模型支持
+
 ## 用法
 ### GitHub Actions
 1. Fork此项目，在顶部“Settings”标签中找到“Actions”→“General”→“Actions permissions”，选择“Allow all actions and reusable workflows”，然后在顶部“Actions”标签中选择“I understand my workflows, go ahead and enable them”。
